@@ -8,3 +8,4 @@ app.use(morgan("dev"));
 app.use(router);
 
 app.listen(app.get("port"));
+console.log(`On port ${app.get("port")}`);
