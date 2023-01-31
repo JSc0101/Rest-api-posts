@@ -1,0 +1,1 @@
+console.log('hello world init proyecto crurriculum :)')
